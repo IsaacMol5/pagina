@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IsaacMol5/pagina/static/css/main.5f361e03.chunk.css",
+    "main.js": "/IsaacMol5/pagina/static/js/main.f0783f43.chunk.js",
+    "main.js.map": "/IsaacMol5/pagina/static/js/main.f0783f43.chunk.js.map",
+    "runtime-main.js": "/IsaacMol5/pagina/static/js/runtime-main.d93502d6.js",
+    "runtime-main.js.map": "/IsaacMol5/pagina/static/js/runtime-main.d93502d6.js.map",
+    "static/js/2.8819dfef.chunk.js": "/IsaacMol5/pagina/static/js/2.8819dfef.chunk.js",
+    "static/js/2.8819dfef.chunk.js.map": "/IsaacMol5/pagina/static/js/2.8819dfef.chunk.js.map",
+    "index.html": "/IsaacMol5/pagina/index.html",
+    "precache-manifest.26be26b8c5487c00de71b83a5ca011c5.js": "/IsaacMol5/pagina/precache-manifest.26be26b8c5487c00de71b83a5ca011c5.js",
+    "service-worker.js": "/IsaacMol5/pagina/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/IsaacMol5/pagina/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8819dfef.chunk.js.LICENSE.txt": "/IsaacMol5/pagina/static/js/2.8819dfef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/IsaacMol5/pagina/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d93502d6.js",
+    "static/js/2.8819dfef.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f0783f43.chunk.js"
+  ]
+}
